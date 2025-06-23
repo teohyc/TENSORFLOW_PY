@@ -40,4 +40,4 @@ def predict_digit(image_path):
     print(f" Predicted digit: {digit} (Confidence: {confidence:.2f}%)")
 
 # 4. Usage
-predict_digit('test6.jpg')
+predict_digit('test0.jpg')
