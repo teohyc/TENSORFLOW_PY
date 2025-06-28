@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # 1. Load the saved model
 model = load_model("mnist_ann_model_2.h5")
-print("✅ Model loaded.")
+print(" Model loaded.")
 
 # 2. Function to preprocess the image
 def preprocess_image(image_path):
