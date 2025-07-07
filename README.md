@@ -1,4 +1,4 @@
-Installed with tensorflow and matplotlib
+Installed with tensorflow, seaborn and matplotlib
 
 pip install tensorflow
 
