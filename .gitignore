@@ -1,5 +1,9 @@
 /.venv
-/TF-Bootcamp-NB07-assets.zip
 /images
 /mnist_ann_model.h5
 /mnist_ann_model_2.h5
+dataset_traffic_signs_40_samples_per_class/
+TENSORFLOW_PY/**/*.csv
+/.vscode
+__MACOSX/
+*.zip
