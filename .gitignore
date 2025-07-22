@@ -7,3 +7,4 @@ TENSORFLOW_PY/**/*.csv
 /.vscode
 __MACOSX/
 *.zip
+/camvid_images
