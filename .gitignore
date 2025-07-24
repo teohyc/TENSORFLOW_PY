@@ -8,3 +8,4 @@ TENSORFLOW_PY/**/*.csv
 __MACOSX/
 *.zip
 /camvid_images
+/object_detection_images
